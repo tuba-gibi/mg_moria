@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "mg_moria",
+		"path": "../../../mg_moria"
+	},
+	{
+		"name": "img.g",
+		"path": "../CSS/google/img.g"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "mg_moria"
+  }
+}
